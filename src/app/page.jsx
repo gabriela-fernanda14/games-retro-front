@@ -6,6 +6,6 @@ export default function Home() {
     <main className={styles.main}>
       <h1>Games Retro</h1>
       <p>Recordes de jogos retro</p>
-    </main>
+      </main>
   );
 }
